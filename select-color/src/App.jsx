@@ -1,12 +1,15 @@
 import './app.css'
 
+import ColorBox from './components/ColorBox'
+import ColorSelector from './components/ColorSelector'
+
 function App() {
 
 
   return (
 
-      <div>
-
+      <div className='container'>
+        <ColorSelector/>
       </div>
        
     
