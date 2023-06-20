@@ -1,6 +1,5 @@
 import './app.css'
 
-import ColorBox from './components/ColorBox'
 import ColorSelector from './components/ColorSelector'
 
 function App() {
